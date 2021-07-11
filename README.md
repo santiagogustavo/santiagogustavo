@@ -10,7 +10,7 @@
     <a href="https://www.youtube.com/watch?v=LJHZ15s0Tus">
         <img width="150" alt="🦑" src="https://count.getloli.com/get/@:santiagogustavo?theme=rule34" />
     </a>
-    <a href="https://github.com/lowlighter/metrics">
+    <a href="https://www.last.fm/user/santiago-re">
         <img align="left" width="400" alt="🦑" src="https://github.com/santiagogustavo/santiagogustavo/blob/main/metrics.right.svg" />
     </a>
 </div>
