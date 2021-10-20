@@ -1,33 +1,31 @@
-<!-- ### Hi there 👋 -->
-
-<div style="float: left; width: 400px">
-    <a href="https://github.com/lowlighter/metrics">
-        <img align="left" width="400" alt="🦑" src="https://github.com/santiagogustavo/santiagogustavo/blob/main/metrics.left.svg" />
-    </a>
+<div align="center" width="400">
+    <img
+        alt="Santiago, Gustavo"
+        src="./assets/logo-horizontal.png"
+        width="400"
+    />
+    <br />
+    <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=santiagogustavo&show_icons=true&hide_title=true&theme=radical"
+        width="400"
+    />
+    <br />
+    <img
+        alt="GitHub Streak"
+        src="https://github-readme-streak-stats.herokuapp.com?user=santiagogustavo&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+        width="400"
+    />
+    <br />
+    <img
+        alt="Spotify Widget"
+        src="https://spotify-recently-played-readme.vercel.app/api?user=12185213834"
+        width="400"
+    />
+    <br />
+    <img
+        alt="JavaScripto"
+        src="assets/javascript.jpg"
+        width="350"
+    />
 </div>
-
-<div style="float: right; width: 400px">
-    <a href="https://www.youtube.com/watch?v=LJHZ15s0Tus">
-        <img width="150" alt="🦑" src="https://count.getloli.com/get/@:santiagogustavo?theme=rule34" />
-    </a>
-    <a href="https://www.last.fm/user/santiago-re">
-        <img align="left" width="400" alt="🦑" src="https://github.com/santiagogustavo/santiagogustavo/blob/main/metrics.right.svg" />
-    </a>
-</div>
-
-<img width="350" alt="🦑" src="https://res.cloudinary.com/practicaldev/image/fetch/s--JuEWg2jc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opbs8q0d1nwhbti3hsvm.jpg" />
-
-<!--
-**santiagogustavo/santiagogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
