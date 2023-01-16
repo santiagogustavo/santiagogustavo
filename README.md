@@ -7,7 +7,7 @@
     <br />
     <img
         alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=santiagogustavo&show_icons=true&hide_title=true&theme=radical"
+        src="https://github-readme-stats.zohan.tech/api?username=santiagogustavo&show_icons=true&hide_title=true&theme=radical"
         width="400"
     />
     <br />
